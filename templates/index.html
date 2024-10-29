@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Revisar el clima</title>
+    <link href="{{ url_for('static', filename='styles/style.css') }}" rel="stylesheet" />
+</head>
+
+<body>
+    <h1>Revisar el clima</h1>
+    <form action="/weather">
+        <input type="text" name="city" id="city" placeholder="Buscar por ciudad" autofocus />
+        <button type="submit">Revisar</button>
+    </form>
+</body>
+
+</html>
