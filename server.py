@@ -10,7 +10,7 @@ def getDBconnection():
     conn = sql.connect(
         host='localhost',
         user='root',
-        password='mefort@1ece',
+        password='',
         database='climapp'
     )
     return conn
