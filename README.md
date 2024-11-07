@@ -9,8 +9,8 @@ ClimaApp utiliza la API de OpenWeatherMap para obtener información meteorológi
 ## Capturas de Pantalla
 
 ![Captura de pantalla 1](screenshots/captura1.png)
-![Captura de pantalla 2](ruta/a/captura2.png)
-![Captura de pantalla 3](ruta/a/captura3.png)
+![Captura de pantalla 2](screenshots/captura2.png)
+![Captura de pantalla 3](screenshots/captura3.png)
 
 ## Estructura del proyecto
 
