@@ -16,20 +16,20 @@ ClimaApp utiliza la API de OpenWeatherMap para obtener información meteorológi
 
 ```
 climapp/
-├── static/             # Archivos estáticos (CSS)
+├── static/             
 │   └── style.css
-├── templates/          # Plantillas HTML
-│   ├── error.html      # Página de error
-│   ├── index.html      # Página principal
-│   └── weather.html    # Página con la información del clima
-├── .gitignore          # Archivos ignorados por Git
-├── .git                # Directorio de Git
-├── .env                # Variables de entorno (API Key)
-├── README.md           # Informacion del proyecto
-├── requirements.txt    # Dependencias del proyecto
-├── structure.txt       # Archivo de estructura (este README)
-├── server.py           # Script principal del servidor Flask
-└── weather.py          # Módulo para interactuar con la API de OpenWeatherMap
+├── templates/          
+│   ├── error.html      
+│   ├── index.html      
+│   └── weather.html 
+├── .gitignore
+├── .git
+├── .env              
+├── README.md 
+├── requirements.txt
+├── structure.txt  
+├── server.py
+└── weather.py   
 ```
 
 ## Instalación
