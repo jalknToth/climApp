@@ -15,7 +15,7 @@ def getDBconnection():
         host='localhost',  # Host de la base de datos
         user='root',  # Usuario de la base de datos
         password='',  # Contraseña del usuario
-        database='climapp'  # Nombre de la base de datos
+        database=''  # Nombre de la base de datos
     )
     return conn
 
